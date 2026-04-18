@@ -10,8 +10,8 @@ Sou estudante concluinte de **Engenharia Aeronáutica na Escola de Engenharia de
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulosantiago240-star&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulosantiago240-star&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luispauloloubet&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luispauloloubet&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 
