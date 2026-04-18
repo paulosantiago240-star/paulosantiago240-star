@@ -2,7 +2,7 @@
 
 ### Engenheiro Aeronáutico em formação (EESC-USP) & Entusiasta de Data Science
 
-Sou estudante concluite de **Engenharia Aeronáutica na Escola de Engenharia de São Carlos (USP)**. Atualmente, aplico a matemático e o pensamento analítico adquiridos na graduação para estudar assuntos complexos e que gosto muito através de **Ciência de Dados**, com foco especial em análise de negócios e finanças quantitativas.
+Sou estudante concluinte de **Engenharia Aeronáutica na Escola de Engenharia de São Carlos (USP)**. Atualmente, aplico a matemático e o pensamento analítico adquiridos na graduação para estudar assuntos complexos e que gosto muito através de **Ciência de Dados**, com foco especial em análise de negócios e finanças quantitativas.
 
 
 
